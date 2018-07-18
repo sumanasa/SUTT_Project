@@ -10,9 +10,6 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             tools:context=".MainActivity">
-            <!--android:background="@drawable/rain"-->
-            <!--android:scaleType="centerCrop">-->
-
 
        <ImageView
             android:id="@+id/imageView"
@@ -20,7 +17,7 @@
             android:layout_height="150dp"
             android:layout_alignParentTop="true"
             android:layout_centerHorizontal="true"
-            android:layout_marginTop="66dp"
+            android:layout_marginTop="50dp"
             app:srcCompat="@drawable/logo"
             android:contentDescription="@string/todo"/>
 
