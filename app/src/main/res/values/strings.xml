@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">SU</string>
+    <string name="name">Name</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="keep_me_signed_in">Keep me signed in</string>
+    <string name="log_in">Log In</string>
+    <string name="not_a_member">Not a Member?</string>
+    <string name="sign_up">sign up</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+    <string name="media_player">Media Player</string>
+    <string name="Contacts">Contacts</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="contactslist"><u>Contacts</u></string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ScoreCard">ScoreCard</string>
+    <string name="Score_Card">Score Card</string>
+    <string name="title_activity_hamburger_menu">HamburgerMenu</string>
+
+    <string name="order_coffee">Order Coffee</string>
+    <string name="full_name">Full Name</string>
+    <string name="create_a_new_account">Create a new Account</string>
+    <string name="confirm_password">Confirm Passwordd</string>
+    <string name="signup">SIGN UP</string>
+    <string name="welcome">Welcome!</string>
+    <string name="shape_of_you">Shape Of You</string>
+    <string name="faded_alenwalker">Faded-AlanWalker</string>
+
+    <string name="su_tech_team">SU Tech Team</string>
+
+    <string name="sutechteam_gmail_com">sutechteam@gmail.com</string>
+    <string name="tel_91_7893116995">Tel : +91 7893116995</string>
+    <string name="riya">Riya</string>
+    <string name="william">William</string>
+
+    <string name="work_91_9515464004">Work : +91 9515464004</string>
+
+    <string name="work_91_7780689988">Work : +91 7780689988</string>
+    <string name="augustina">Augustina</string>
+    <string name="deepak">Deepak</string>
+    <string name="lahari">Lahari</string>
+    <string name="home_91_9444924727">Home : +91 9444924727</string>
+    <string name="home_91_7287070196">Home : +91 7287070196</string>
+
+    <string name="awe_the_coffee_place">AWE ! The coffee place</string>
+    <string name="quantity">Quantity:</string>
+    <string name="minus">-</string>
+    <string name="_0">0</string>
+    <string name="plus">+</string>
+    <string name="amount">Amount:</string>
+    <string name="order">ORDER</string>
+    <string name="dollar">$0</string>
+    <string name="todo">TODO</string>
+</resources>

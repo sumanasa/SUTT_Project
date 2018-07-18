@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/mediaplayernavigator"
+            android:icon="@drawable/ic_video_library_black"
+            android:title="@string/media_player" />
+
+        <item
+            android:id="@+id/contactsnavigator"
+            android:icon="@drawable/ic_contacts_black"
+            android:title="@string/Contacts" />
+        <item
+            android:id="@+id/coffeenav"
+            android:icon="@drawable/ic_local_cafe_black_24dp"
+            android:title="Order Coffee" />
+        <item
+            android:id="@+id/homenavigator"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home Page"/>
+
+    </group>
+
+</menu>
