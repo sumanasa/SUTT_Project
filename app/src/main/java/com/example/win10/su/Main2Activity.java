@@ -56,13 +56,13 @@ public class Main2Activity extends AppCompatActivity implements NavigationView.O
         }
         return super.onOptionsItemSelected(item);
     }
-    @Override
-    public void onBackPressed() {
-        if (DrLt.isDrawerOpen(GravityCompat.START)) {
-            DrLt.closeDrawer(GravityCompat.START);
-        } else {
-            super.onBackPressed();
-        }
-    }
+//    @Override
+//    public void onBackPressed() {
+//        if (DrLt.isDrawerOpen(GravityCompat.START)) {
+//            DrLt.closeDrawer(GravityCompat.START);
+//        } else {
+//            super.onBackPressed();
+//        }
+//    }
 }
 
